@@ -18,9 +18,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/roupas?Roupas"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": false
   },
