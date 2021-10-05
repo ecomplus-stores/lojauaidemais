@@ -1,7 +1,7 @@
 {
   "domain": "lojauaidemais.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#808080",
+  "primary_color": "#000040",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
