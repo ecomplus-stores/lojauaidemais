@@ -1,5 +1,5 @@
 {
-  "css": " .banner-slider {\n    max-width: 100%;\n    max-height: calc(80rem*var(--banner-aspect-ratio))\n  }",
+  "css": "",
   "html_head": "",
   "html_body": ""
 }
