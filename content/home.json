@@ -3,18 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner1.png"
-        }
-      ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/magenta-and-yellow-vibrant-and-dynamic-business-retractable-exhibition-banner.png"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -28,6 +16,11 @@
           "start": "2021-10-06T18:15:08.573Z",
           "end": "2021-10-06T18:15:08.633Z",
           "img": "/img/uploads/magenta-and-yellow-vibrant-and-dynamic-business-retractable-exhibition-banner.png"
+        },
+        {
+          "start": "2021-10-06T18:32:04.334Z",
+          "end": "2021-10-06T18:32:04.368Z",
+          "img": "/img/uploads/banner1.png"
         }
       ]
     },
