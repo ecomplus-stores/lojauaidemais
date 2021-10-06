@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 1000,
+      "autoplay": 3000,
       "slides": [
         {
           "img": "/img/uploads/banner-para-mercado-shops-medio-preto-e-laranja-de-pecas-para-empilhadeira.png",
