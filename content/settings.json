@@ -1,12 +1,12 @@
 {
   "domain": "lojauaidemais.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff0000",
+  "primary_color": "#b30000",
   "theme": {
-    "bootswatch": "united",
+    "bootswatch": "flatly",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#b30000",
   "repository": "ecomplus-stores/lojauaidemais",
   "logo": "/img/uploads/logo.png",
   "name": "Loja Uai Demais",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#c0c0c0",
+  "secondary_color": "#dadada",
   "icon": "/img/icon.png",
   "store_id": 11776,
   "description": "Venda de produtos no varejo na área de utilidades\n\nf1faee",
