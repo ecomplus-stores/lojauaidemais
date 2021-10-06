@@ -3,6 +3,14 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner1.png"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/magenta-and-yellow-vibrant-and-dynamic-business-retractable-exhibition-banner.png"
     },
