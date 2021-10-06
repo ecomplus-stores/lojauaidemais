@@ -46,6 +46,15 @@
       "title": "Lançamento"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "615dfc3828ace502ae97ca5d:categories:Pijama:/pijama",
+      "sort": "offers",
+      "title": "Grandes Ofertas"
+    },
+    {
       "type": "page-title",
       "title": "Loja Uai Demais",
       "description": "Tudo que você precisa está aqui, em nossa loja!"
