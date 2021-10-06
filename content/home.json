@@ -55,6 +55,11 @@
       "title": "Grandes Ofertas"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "lowest_price"
+    },
+    {
       "type": "page-title",
       "title": "Loja Uai Demais",
       "description": "Tudo que você precisa está aqui, em nossa loja!"
