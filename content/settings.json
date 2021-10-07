@@ -4,7 +4,7 @@
   "primary_color": "#b30000",
   "theme": {
     "bootswatch": "flatly",
-    "custom": "_"
+    "custom": "clean-gray"
   },
   "bg_color": "#b30000",
   "repository": "ecomplus-stores/lojauaidemais",
@@ -19,6 +19,6 @@
   "secondary_color": "#dadada",
   "icon": "/img/icon.png",
   "store_id": 11776,
-  "description": "Venda de produtos no varejo na área de utilidades\n\nf1faee",
+  "description": "Venda de produtos no varejo na área de utilidades.",
   "large_icon": "/img/large-icon.png"
 }
