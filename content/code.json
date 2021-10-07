@@ -1,5 +1,5 @@
 {
-  "css": "@media (min-width: 992px) {\n  .banner-slider {\n    max-width: 100%;\n    max-height: calc(100rem*var(--banner-aspect-ratio))\n  }\n}\n\n.menu__list:before {\n    background-image: url(https://lojauaidemais.netlify.app/logo-uai-demais.png);\n    background-size: 40px 40px;\n    display: block;\n    width: 40px; \n    height: 40px;\n    content:\"\";\n    margin-left: 1rem;\n}",
-  "html_head": "",
+  "css": "@media (min-width: 992px) {\n  .banner-slider {\n    max-width: 100%;\n    max-height: calc(100rem*var(--banner-aspect-ratio))\n  }\n}\n\n",
+  "html_head": "<a href=\"https://wa.me/5537999585610?text=Ola%20estou%20na%20sua%20loja\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>",
   "html_body": ""
 }
