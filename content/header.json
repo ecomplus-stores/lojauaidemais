@@ -10,10 +10,6 @@
       {
         "title": "Atendimento",
         "link": "/posts/esta-loja-e-um-pwa"
-      },
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
       }
     ],
     "phone_wpp": true,
