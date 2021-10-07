@@ -41,7 +41,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "615dfc0928ace502ae97c9d7:categories:Cozinha:/cozinha",
+      "collection_id": "615dfc2e28ace502ae97ca47:categories:Eletrônicos:/eletronicos",
       "sort": "news",
       "title": "Lançamento"
     },
@@ -53,11 +53,6 @@
       "collection_id": "615dfc3828ace502ae97ca5d:categories:Pijama:/pijama",
       "sort": "offers",
       "title": "Grandes Ofertas"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "lowest_price"
     },
     {
       "type": "page-title",
