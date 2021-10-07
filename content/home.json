@@ -28,12 +28,12 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": false
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/50-off.gif"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
