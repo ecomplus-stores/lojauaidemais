@@ -1,22 +1,22 @@
 {
   "shipping": {
     "show": true,
-    "text": "Acessorios",
-    "link": "https://lojauaidemais.netlify.app/acessorios"
+    "text": "Entregamos para todo o Brasil",
+    "link": ""
   },
   "installments": {
     "show": true,
-    "text": "Beleza",
-    "link": "https://lojauaidemais.netlify.app/beleza"
+    "text": "Parcele sem juros",
+    "link": ""
   },
   "exchange": {
     "show": true,
-    "text": "Cozinha",
-    "link": "https://lojauaidemais.netlify.app/cozinha"
+    "text": "Não gostou? A primeira troca é gratuita",
+    "link": ""
   },
   "promo": {
     "show": true,
-    "text": "Utensílios",
-    "link": "https://lojauaidemais.netlify.app/utensilios"
+    "text": "Diferentes promoções ao longo do ano!",
+    "link": ""
   }
 }
