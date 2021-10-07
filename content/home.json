@@ -7,16 +7,11 @@
       "autoplay": 8000,
       "slides": [
         {
-          "img": "/img/uploads/black-friday.gif",
+          "img": "/img/uploads/banner_utensilios.png",
           "alt": "Banner sample two",
           "start": "2021-10-06T18:48:55.634Z",
           "end": "2021-12-31T18:46:38.252Z",
           "link": "https://lojauaidemais.netlify.app/crocs-feminino-adulto"
-        },
-        {
-          "start": "2021-10-07T15:57:03.110Z",
-          "end": "2021-12-31T15:57:03.137Z",
-          "img": "/img/uploads/teste.gif"
         }
       ]
     },
