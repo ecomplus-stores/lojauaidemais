@@ -1,8 +1,6 @@
 {
-  "sort_categories": [
-    "acessorios"
-  ],
-  "phone_wpp": true,
-  "socials": true,
-  "alphabetical_order": true
+  "sort_categories": [],
+  "phone_wpp": false,
+  "socials": false,
+  "alphabetical_order": false
 }
