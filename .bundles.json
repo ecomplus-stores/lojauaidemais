@@ -15,9 +15,9 @@
       "checkout.ab3e90cec5f6ce2083fb.js.map"
     ],
     "storefront": [
-      "storefront.e7266e9680835f454e8f.css",
+      "storefront.a8dc66d8c0ed6ef6af70.css",
       "storefront.9bc67d6d705a7c9812ea.js",
-      "storefront.e7266e9680835f454e8f.css.map",
+      "storefront.a8dc66d8c0ed6ef6af70.css.map",
       "storefront.9bc67d6d705a7c9812ea.js.map"
     ],
     "vendors~app-cart": "chunk.0b5c4d272aa5485c8475.js",
