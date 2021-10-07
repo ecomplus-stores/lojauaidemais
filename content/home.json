@@ -40,7 +40,7 @@
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
-      "page": 2,
+      "page": 1,
       "sort": "slug",
       "title": "Os Preferidos!"
     },
