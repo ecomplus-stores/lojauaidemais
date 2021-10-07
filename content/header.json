@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 30%!",
-    "link": "/img/uploads/tan-red-contemporary-classy-outdoor-graduation-banner.png"
+    "link": "/promon",
+    "background": "#828282"
   },
   "contacts_stripe": {
     "pages": [
