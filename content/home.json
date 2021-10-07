@@ -40,8 +40,9 @@
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
-      "page": 1,
-      "sort": "slug"
+      "page": 2,
+      "sort": "slug",
+      "title": "Os Preferidos!"
     },
     {
       "type": "collection-shelf",
