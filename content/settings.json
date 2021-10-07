@@ -1,12 +1,12 @@
 {
   "domain": "lojauaidemais.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#800040",
+  "primary_color": "#970000",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-white"
   },
-  "bg_color": "#c0c0c0",
+  "bg_color": "#9f0000",
   "repository": "ecomplus-stores/lojauaidemais",
   "logo": "/img/uploads/logo-uai-demais.png",
   "name": "Loja Uai Demais",
