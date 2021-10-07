@@ -28,10 +28,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/50-off.gif"
-    },
-    {
       "type": "info-bar",
       "enabled": false
     },
