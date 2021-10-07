@@ -46,12 +46,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "615dfc2e28ace502ae97ca47:categories:Eletrônicos:/eletronicos",
       "sort": "news",
-      "title": "Lançamento"
+      "title": "As Novidades!",
+      "headless": false
     },
     {
       "type": "collection-shelf",
