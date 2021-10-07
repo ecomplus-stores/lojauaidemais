@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#821212",
   "theme": {
-    "bootswatch": "cerulean",
+    "bootswatch": "simplex",
     "custom": "clean-white"
   },
   "bg_color": "#808080",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/uaidemais.png",
   "country_code": "BR",
-  "secondary_color": "#891010",
+  "secondary_color": "#660000",
   "icon": "/img/icon.png",
   "store_id": 11776,
   "description": "Venda de produtos no varejo na área de utilidades. ",
