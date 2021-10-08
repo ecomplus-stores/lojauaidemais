@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#021e2f",
   "theme": {
-    "bootswatch": "simplex",
-    "custom": "clean-gray"
+    "bootswatch": "minty",
+    "custom": "niche-baby"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/lojauaidemais",
