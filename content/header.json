@@ -9,7 +9,7 @@
     "pages": [
       {
         "title": "Atendimento",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "link": "https://lojauaidemais.netlify.app/pages/contato"
       }
     ],
     "phone_wpp": true,
