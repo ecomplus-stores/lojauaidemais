@@ -1,7 +1,7 @@
 {
   "domain": "lojauaidemais.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#021e2f",
+  "primary_color": "#0bf91b",
   "theme": {
     "bootswatch": "minty",
     "custom": "niche-baby"
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/uaidemais.png",
   "country_code": "BR",
-  "secondary_color": "#750e0b",
+  "secondary_color": "#bc1560",
   "icon": "/img/icon.png",
   "store_id": 11776,
   "description": "Venda de produtos no varejo na área de utilidades. ",
