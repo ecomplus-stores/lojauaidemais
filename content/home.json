@@ -3,10 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 6000,
       "slides": [
@@ -30,10 +26,6 @@
           "img": "/img/uploads/beleza.gif"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": false
     },
     {
       "type": "collection-shelf",
