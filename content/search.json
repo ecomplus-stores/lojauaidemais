@@ -8,7 +8,16 @@
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2021-10-01T23:00:28.489Z",
-      "end": "2021-12-31T23:00:04.520Z"
+      "end": "2021-12-31T23:00:04.520Z",
+      "offers": []
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/50-off.gif"
+        }
+      ]
     }
   ]
 }
