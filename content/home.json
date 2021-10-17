@@ -59,6 +59,13 @@
       "type": "page-title",
       "title": "Loja Uai Demais",
       "description": "Tudo que você precisa está aqui, em nossa loja!"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null,
+      "autoplay": 2000
     }
   ]
 }
