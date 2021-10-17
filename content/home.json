@@ -59,6 +59,11 @@
       "type": "page-title",
       "title": "Veja mais em nosso Instagram: @lojauaidemais",
       "description": "Tudo que você precisa está aqui, em nossa loja!"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/clique-aqui.gif",
+      "link": "https://www.instagram.com/lojauaidemais/"
     }
   ]
 }
