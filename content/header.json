@@ -8,12 +8,12 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Atendimento",
-        "link": "https://www.uaidemais.com.br/pages/contato"
+        "title": "(Blog) - Dicas e informações Uai Demais",
+        "link": "https://www.uaidemais.com.br/blog"
       },
       {
-        "title": "Blog Uai Demais",
-        "link": "https://www.uaidemais.com.br/blog"
+        "title": "Atendimento",
+        "link": "https://www.uaidemais.com.br/pages/contato"
       }
     ],
     "phone_wpp": true,
