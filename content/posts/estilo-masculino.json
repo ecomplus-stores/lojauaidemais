@@ -3,22 +3,13 @@
   "title": "Dica: 5 Looks Infalíveis para Fazer com \"Camiseta Branca\"",
   "thumbnail": "/img/uploads/estilo.png",
   "description": "Vamos apresentar 5 looks infalíveis pra fazer com camiseta branca, se ligue nas dicas!",
-  "body": "![Estilo Masculino](/img/uploads/01.jpg)\n\n![](/img/uploads/02.jpg)\n\n![](/img/uploads/03.jpg)\n\n![](/img/uploads/04.jpg)\n\n![](/img/uploads/05.jpg)\n\n![](/img/uploads/06.jpg)\n\n## TUDO SOBRE ESTILO MASCULINO.",
-  "meta_title": "",
-  "meta_description": "",
+  "body": "![Estilo Masculino](/img/uploads/01.jpg)\n\n![](/img/uploads/02.jpg)\n\n![](/img/uploads/03.jpg)\n\n![](/img/uploads/04.jpg)\n\n![](/img/uploads/05.jpg)\n\n![](/img/uploads/06.jpg)\n\n\n\n```\n\n```",
+  "meta_title": "5 Looks com Camiseta Branca",
+  "meta_description": "5 Looks com Camiseta Branca",
   "sections": [
     {
       "type": "blog-post",
       "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/50-off.gif",
-          "link": "https://www.uaidemais.com.br/moda-masculina"
-        }
-      ]
     }
   ]
 }
