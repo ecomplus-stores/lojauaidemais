@@ -1,10 +1,10 @@
 {
-  "title": "(Blog) - Dicas e informações Uai Demais",
+  "title": "Blog - Dicas e informações",
   "sections": [
     {
       "type": "blog",
       "enabled": true
     }
   ],
-  "body": "<!--StartFragment-->\n\n[(Blog) - Dicas e informações Uai Demais](https://www.uaidemais.com.br/blog)\n\n<!--EndFragment-->"
+  "body": "<!--StartFragment-->\n\n[Blog - Dicas e informações](https://www.uaidemais.com.br/blog)\n\n<!--EndFragment-->"
 }
