@@ -3,7 +3,13 @@
   "title": "Estilo Masculino",
   "thumbnail": "/img/uploads/estilo.png",
   "description": "Sobre estilo masculino.",
-  "body": "## TUDO SOBRE ESTILO MASCULINO.\n\nAqui você aprende se vestir corretamente;",
+  "body": "![Estilo Masculino](/img/uploads/estilo.png)\n\n## TUDO SOBRE ESTILO MASCULINO.\n\nAqui você aprende se vestir corretamente;",
   "meta_title": "Teste",
-  "meta_description": "Teste1"
+  "meta_description": "Teste1",
+  "sections": [
+    {
+      "type": "blog-post",
+      "enabled": true
+    }
+  ]
 }
