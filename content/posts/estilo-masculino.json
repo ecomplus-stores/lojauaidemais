@@ -10,6 +10,15 @@
     {
       "type": "blog-post",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/50-off.gif",
+          "link": "https://www.uaidemais.com.br/moda-masculina"
+        }
+      ]
     }
   ]
 }
