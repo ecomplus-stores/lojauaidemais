@@ -6,7 +6,12 @@
   "links_1": {
     "list_pages": true,
     "title": "Mais Informações",
-    "list": []
+    "list": [
+      {
+        "text": "Blog - Uai Demais",
+        "url": "https://www.uaidemais.com.br/blog"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
