@@ -1,21 +1,21 @@
 {
   "shipping": {
-    "show": false,
+    "show": true,
     "text": "Entregamos para todo o Brasil",
     "link": ""
   },
   "installments": {
-    "show": false,
+    "show": true,
     "text": "Parcele sem juros",
     "link": ""
   },
   "exchange": {
-    "show": false,
+    "show": true,
     "text": "Não gostou? A primeira troca é gratuita",
     "link": ""
   },
   "promo": {
-    "show": false,
+    "show": true,
     "text": "Diferentes promoções ao longo do ano!",
     "link": ""
   }
