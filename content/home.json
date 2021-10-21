@@ -7,13 +7,22 @@
       "enabled": false
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 6000,
+      "slides": [
         {
-          "img": "/img/uploads/02.jpg"
+          "img": "/img/uploads/outubro-2021.png",
+          "alt": "Banner sample two",
+          "start": "2021-10-06T18:48:55.634Z",
+          "end": "2021-12-31T18:46:38.252Z",
+          "link": "/moda-feminina",
+          "mobile_img": "/img/uploads/design-sem-nome-1-.png"
         },
         {
-          "img": "/img/uploads/05.jpg"
+          "start": "2021-10-17T19:06:15.251Z",
+          "end": "2021-12-31T19:06:15.312Z",
+          "img": "/img/uploads/moda-1-.png",
+          "mobile_img": "/img/uploads/estilo.png"
         }
       ]
     },
@@ -46,22 +55,13 @@
       "title": "Grandes Ofertas!"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 6000,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "img": "/img/uploads/outubro-2021.png",
-          "alt": "Banner sample two",
-          "start": "2021-10-06T18:48:55.634Z",
-          "end": "2021-12-31T18:46:38.252Z",
-          "link": "/moda-feminina",
-          "mobile_img": "/img/uploads/design-sem-nome-1-.png"
+          "img": "/img/uploads/02.jpg"
         },
         {
-          "start": "2021-10-17T19:06:15.251Z",
-          "end": "2021-12-31T19:06:15.312Z",
-          "img": "/img/uploads/moda-1-.png",
-          "mobile_img": "/img/uploads/estilo.png"
+          "img": "/img/uploads/05.jpg"
         }
       ]
     }
