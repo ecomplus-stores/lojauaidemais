@@ -11,7 +11,7 @@
       "autoplay": 6000,
       "slides": [
         {
-          "img": "/img/uploads/colecao-sublime.png",
+          "img": "/img/uploads/outubro-2021.png",
           "alt": "Banner sample two",
           "start": "2021-10-06T18:48:55.634Z",
           "end": "2021-12-31T18:46:38.252Z",
@@ -21,13 +21,13 @@
         {
           "start": "2021-10-17T19:06:15.251Z",
           "end": "2021-12-31T19:06:15.312Z",
-          "img": "/img/uploads/colecao-sublime-1-.png",
+          "img": "/img/uploads/moda-1-.png",
           "mobile_img": "/img/uploads/estilo.png"
         },
         {
           "start": "2021-10-21T13:21:26.586Z",
           "end": "2021-12-31T13:21:42.001Z",
-          "img": "/img/uploads/colecao-sublime-2-.png"
+          "img": "/img/uploads/linha-acessorios.png"
         }
       ]
     },
