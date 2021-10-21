@@ -53,6 +53,17 @@
       "collection_id": null,
       "sort": "offers",
       "title": "Grandes Ofertas!"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/06.jpg"
+        },
+        {
+          "img": "/img/uploads/02.jpg"
+        }
+      ]
     }
   ]
 }
