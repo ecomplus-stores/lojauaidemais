@@ -53,17 +53,6 @@
       "collection_id": null,
       "sort": "offers",
       "title": "Grandes Ofertas!"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/azul-template-para-black-friday-ofertas-instagram-.png"
-        },
-        {
-          "img": "/img/uploads/melhores-roupas-moda-post-instagram.png"
-        }
-      ]
     }
   ]
 }
