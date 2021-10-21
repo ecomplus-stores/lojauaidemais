@@ -39,11 +39,12 @@
         },
         {
           "img": "/img/uploads/05.jpg"
-        },
-        {
-          "img": "/img/uploads/moda-1-.png"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/colecao-sublime-1-.png"
     },
     {
       "type": "collection-shelf",
