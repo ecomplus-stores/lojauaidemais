@@ -14,7 +14,7 @@
     ]
   },
   "links_2": {
-    "list_categories": false,
+    "list_categories": true,
     "title": "Categorias",
     "list": []
   },
@@ -47,5 +47,5 @@
     "mais": false,
     "itau": true
   },
-  "credits": ""
+  "credits": "6x Sem Juros"
 }
