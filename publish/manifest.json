@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ec5ef80cd32c768c1855a1b591d6908c.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a20f707ef663aae3c13ffd9279de8b69.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e7f376d75c4e57ad25d10737b6262fce.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.736a6482b8b67b42ce5b56fe0c5584cb.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ea5d6501c4e27564ce5172069d679a55.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Uai Demais",
+  "short_name": "lojauaidemais",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja especializada em vendas de produtos em geral. Uai Demais vêm crescendo e se tornando uma referência de qualidade e preço justo em artigos em geral. Inovando em produtos, buscando exaustivamente a satisfação de nossos clientes e assim garantindo sua fidelização.",
+  "background_color": "#f2f2f2",
+  "theme_color": "#2b2938"
+}
